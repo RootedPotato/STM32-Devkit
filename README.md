@@ -1,8 +1,9 @@
 # STM32G474RETx DevKit
 ![3D_View](Pictures/3D_View.png)
 A compact, 40-pin breadboard-friendly development board based on the high-performance **STM32G474RETx** microcontroller (LQFP64). Designed for advanced analog applications, digital power control, and versatile prototyping.
-
-## 🚀 Key Features
+## Why I made
+I made this project for my next projects where i would need fast and good PWM outputs and ADC inputs and also small size. But main reseon was to understand more about PCB, PCBA and microcontrolers.
+## Key Features
 * **MCU:** STM32G474RETx (Arm® Cortex®-M4 with FPU, 170 MHz, 512 KB Flash)
 * **Crystal:** 16Mhz
 * **Form Factor:** 40-pin dual-row header layout (2x20 pins)
@@ -12,7 +13,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 * **User Control:** Onboard Reset button (SW1) and Boot selector (SW2)
 ![Shematic](Pictures/Shematic.png)
 
-## 🛠️ Hardware Design Architecture
+## Hardware Design Architecture
 
 ### 1. Power Distribution & Regulation
 * **LDO Regulator:** High-efficiency **AMS1117-3.3** drops the incoming +5V rail down to a stable +3V3 for the MCU logic.
@@ -25,7 +26,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 
 ![PCB](Pictures/PCB.png)
 
-## 📌 Header Pinout Layout
+## Header Pinout Layout
 
 ### Connector J2 (Left Header)
 * **Pin 1:** +3V3
