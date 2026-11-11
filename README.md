@@ -61,4 +61,4 @@ I will not name all components or all feutures with, which you can experment, bu
 19. Power GND
 20. Power +3.3V
 ## License
-Its open saource with MIT license.
+Its open source with MIT license.
