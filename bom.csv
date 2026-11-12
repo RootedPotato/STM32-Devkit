@@ -18,8 +18,8 @@ Item,Component,Qty,Total (USD),Link,Notes,
 17,Resistor 10kOhms,1,0.18,https://lv.farnell.com/yageo/rc0805jr-0710kl/res-10k-5-0-125w-0805-thick-film/dp/9234136,---,
 18,PCB,1,4.10,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006,---,
 19,Shipping,2,13.45,---,It is Farnell+Jlcpcb shiping,
-20,VAT/Customs duties & taxes,2,14.42,,It is Farnell Vat and Jlcpcb Customs duties & taxes,
-21,Total,,56.56,,It is out of tier 4; about 7$; and i cant get lower,
+20,VAT/Customs duties & taxes,2,14.42,---,It is Farnell Vat and Jlcpcb Customs duties & taxes,
+21,Total,,56.56,---,It is out of tier 4; about 7$; and i cant get lower,
 
 
 
