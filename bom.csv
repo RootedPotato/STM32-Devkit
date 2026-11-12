@@ -1,7 +1,18 @@
 Item,Component,Qty,Total (USD),Link,Notes,
-1,Ceramic capacitor 0.1uF,6,0.43,https://lv.farnell.com/samsung-electro-mechanics/cl21b104kbcnnnc/cap-0-1uf-50v-mlcc-0805/dp/3013476,---,
-2,Ceramic capacitor 1uF,2,0.58,https://lv.farnell.com/samsung-electro-mechanics/cl21b105kofnnne/cap-1uf-16v-mlcc-0805/dp/3013484,---,
-3,Ceramic capacitor 18pF,2,0.28,https://lv.farnell.com/samsung-electro-mechanics/cl10c180jb8nnnc/cap-18pf-50v-mlcc-0603/dp/3013442,---,
-4,Ceramic capacitor 10uF,5,0.79,https://lv.farnell.com/samsung-electro-mechanics/cl21a106kpclqnc/cap-10uf-10v-mlcc-0805/dp/3013454,---,
-5,LED Diode,1,---,---,I have,
-6,1N5819HW-7-F,1,1.54,https://lv.farnell.com/diodes-inc/1n5819hw-7-f/diode-scky-recti-1a-40v-sod123/dp/1773475,---,
+1,Ceramic capacitor 0.1uF,6,0.43,https://lv.farnell.com/samsung-electro-mechanics/cl21b104kbcnnnc/cap-0-1uf-50v-mlcc-0805/dp/3013476,---
+2,Ceramic capacitor 1uF,2,0.58,https://lv.farnell.com/samsung-electro-mechanics/cl21b105kofnnne/cap-1uf-16v-mlcc-0805/dp/3013484,---
+3,Ceramic capacitor 18pF,2,0.28,https://lv.farnell.com/samsung-electro-mechanics/cl10c180jb8nnnc/cap-18pf-50v-mlcc-0603/dp/3013442,---
+4,Ceramic capacitor 10uF,5,0.79,https://lv.farnell.com/samsung-electro-mechanics/cl21a106kpclqnc/cap-10uf-10v-mlcc-0805/dp/3013454,---
+5,LED Diode,1,---,---,I have
+6,1N5819HW-7-F,1,1.54,https://lv.farnell.com/diodes-inc/1n5819hw-7-f/diode-scky-recti-1a-40v-sod123/dp/1773475,---
+7,USB B MICRO,1,1.08,https://lv.farnell.com/molex/47590-1001/usb-conn-2-0-type-ab-r-a-rcpt/dp/3103094,---
+8,AO3401A,1,3.12,https://lv.farnell.com/diodes-inc/dmg3415u-7/mosfet-p-ch-20v-4a-sot-23/dp/1843688,I use difrent component; but work the same
+9,SW Push,2,---,---,I dont have and also its expensive and out of stock in Farnell,
+10,STM32G474CCT3,1,9.19,https://lv.farnell.com/stmicroelectronics/stm32g474cct3/mcu-32bit-170mhz-lqfp-48/dp/4852894,---
+11,AMS1117-3.3,1,1.19,https://lv.farnell.com/texas-instruments/lm1117mpx-3-3-nopb/regulator-ldo-fixed-3-3v-sot-223/dp/3122024,I use diffrent component; but works the same and does the job
+12,USVLC6-2SC6,1,3.01,https://lv.farnell.com/stmicroelectronics/usblc6-2sc6/esd-protection-17v-sot-23/dp/1269406,---
+13,CRYSTAL 16MHZ,1,0.64,https://lv.farnell.com/abracon/abm8n-16-0000mhz-12-b1u-t3/crystal-16mhz-12pf-smd-3-2mm-x/dp/4706609,---
+14,Resistor 100kOhms,1,0.27,https://lv.farnell.com/vishay/crcw0805100kfkea/res-100k-1-0-125w-0805-thick-film/dp/1469860,---
+15,Resistor 75Ohms,2,0.73,https://lv.farnell.com/panasonic/erjp06f75r0v/res-75r-1-0-5w-0805-thick-film/dp/1894169,---
+16,Resistor 1kOhms,1,0.19,https://lv.farnell.com/yageo/rc0805fr-071kl/res-1k-1-0-125w-0805-thick-film/dp/9237496,---
+17,Resistor 10kOhms,1,0.18,https://lv.farnell.com/yageo/rc0805jr-0710kl/res-10k-5-0-125w-0805-thick-film/dp/9234136,---
