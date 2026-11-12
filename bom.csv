@@ -1,5 +1,5 @@
-"Reference,""Qty"",""Value"",""Total(USD)"",""Website to component"",""Note"",""Footprint"",""Datasheet"",""LCSC"""
-"C10,C16,C17,C20,C21,C22,""6"",""100n"",""0,43"",""https://lv.farnell.com/samsung-electro-mechanics/cl21b104kbcnnnc/cap-0-1uf-50v-mlcc-0805/dp/3013476"","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"","""",""C49678"""
+Reference,Qty,Value,Total(USD),Website to component,Note,Footprint,Datasheet,LCSC
+C10.C16.C17.C20.C21.C22,6,100n,0.43,https://lv.farnell.com/samsung-electro-mechanics/cl21b104kbcnnnc/cap-0-1uf-50v-mlcc-0805/dp/3013476,,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,C49678
 "C11,C12,""2"",""1u"",""0,58"",""https://lv.farnell.com/samsung-electro-mechanics/cl21b105kofnnne/cap-1uf-16v-mlcc-0805/dp/3013484"","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"","""",""C15849"""
 "C15,C18,""2"",""18p"",""0,28"",""https://lv.farnell.com/samsung-electro-mechanics/cl10c180jb8nnnc/cap-18pf-50v-mlcc-0603/dp/3013442"","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"","""",""C113825"""
 "C23,C24,C25,C26,C27,""5"",""10u"",""0,79"",""https://lv.farnell.com/samsung-electro-mechanics/cl21a106kpclqnc/cap-10uf-10v-mlcc-0805/dp/3013454"","""",""Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"","""",""C15850"""
