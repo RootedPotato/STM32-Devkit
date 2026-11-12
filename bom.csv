@@ -1,2 +1,7 @@
 Item,Component,Qty,Total (USD),Link,Notes,
-1,Ceramic capacitor,6,0.43,https://lv.farnell.com/samsung-electro-mechanics/cl21b104kbcnnnc/cap-0-1uf-50v-mlcc-0805/dp/3013476,---,
+1,Ceramic capacitor 0.1uF,6,0.43,https://lv.farnell.com/samsung-electro-mechanics/cl21b104kbcnnnc/cap-0-1uf-50v-mlcc-0805/dp/3013476,---,
+2,Ceramic capacitor 1uF,2,0.58,https://lv.farnell.com/samsung-electro-mechanics/cl21b105kofnnne/cap-1uf-16v-mlcc-0805/dp/3013484,---,
+3,Ceramic capacitor 18pF,2,0.28,https://lv.farnell.com/samsung-electro-mechanics/cl10c180jb8nnnc/cap-18pf-50v-mlcc-0603/dp/3013442,---,
+4,Ceramic capacitor 10uF,5,0.79,https://lv.farnell.com/samsung-electro-mechanics/cl21a106kpclqnc/cap-10uf-10v-mlcc-0805/dp/3013454,---,
+5,LED Diode,1,---,---,---,I have,
+6,1N5819HW-7-F,1,1.54,https://lv.farnell.com/diodes-inc/1n5819hw-7-f/diode-scky-recti-1a-40v-sod123/dp/1773475,---,
