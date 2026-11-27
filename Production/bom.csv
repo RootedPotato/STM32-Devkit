@@ -18,7 +18,7 @@ Item,Component,Qty,Total (USD),Link,Notes,
 18,PCB,1,4.10,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006,---,
 19,Shipping,2,8.50,---,It is Farnell+Jlcpcb and LCSC shiping,
 20,VAT/Customs duties & Taxes/Handling Fee,3,13.24,---,It is Farnell Vat. Jlcpcb Customs duties & taxes. LCSC Handling Fee,
-21,Total,,43.69,---,I will try to make that JLCPCB and LCSC shiping is in one; otherwise it is ~$53,
+21,Total,,43.69,I will try to make that JLCPCB and LCSC shiping is in one; otherwise it is ~$53,
 
 
 
